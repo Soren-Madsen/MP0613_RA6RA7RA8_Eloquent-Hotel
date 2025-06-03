@@ -1,13 +1,13 @@
 # Hotel Management System
 
 ## Front End
-
+![image](https://github.com/user-attachments/assets/9712f9f4-61a2-4e0f-9a4d-fefc70f7d2e2)
 
 ## Back End
-
+![image](https://github.com/user-attachments/assets/921d0b7d-668e-4422-9255-beff8c5799c1)
 
 ## Database Tables
-
+![image](https://github.com/user-attachments/assets/fa381905-ff06-4d96-b568-caca4a4b8b4d)
 
 
 ## Installation
