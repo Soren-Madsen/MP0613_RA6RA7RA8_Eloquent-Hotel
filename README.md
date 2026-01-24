@@ -25,7 +25,7 @@ Follow these instructions to set up and run the project locally on your machine.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/Stucom-Pelai/M07_UF3_Eloquent-Hotel.git
+   git clone https://github.com/Stucom-Pelai/MP0613_RA6RA7RA8_Eloquent-Hotel.git
 ```
 
 2. Install Composer dependencies:

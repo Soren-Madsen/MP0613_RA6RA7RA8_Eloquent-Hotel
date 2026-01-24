@@ -55,7 +55,7 @@
             @can('hotel_access')
                 <li class="nav-item">
                     <a href="{{ route("admin.hotels.index") }}" class="nav-link {{ request()->is('admin/hotels') || request()->is('admin/hotels/*') ? 'active' : '' }}">
-                        <i class="fa-fw fas fa-hotel nav-icon">
+                        <i class="fa-fw fas fa-building nav-icon">
 
                         </i>
                         {{ trans('cruds.hotel.title') }}
